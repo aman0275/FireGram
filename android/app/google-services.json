@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "12633939540",
+    "firebase_url": "https://firegram-b8772.firebaseio.com",
+    "project_id": "firegram-b8772",
+    "storage_bucket": "firegram-b8772.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12633939540:android:d3ef551fb47ccfcd3ad7c1",
+        "android_client_info": {
+          "package_name": "com.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12633939540-rcfr95cciouc3fsvlf95ijptppc736um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQcp6hhpSgw5hVBmMDCUY-YxD3fGKksIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12633939540-rcfr95cciouc3fsvlf95ijptppc736um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12633939540:android:ad1381f33c6bdcc33ad7c1",
+        "android_client_info": {
+          "package_name": "com.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12633939540-rcfr95cciouc3fsvlf95ijptppc736um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQcp6hhpSgw5hVBmMDCUY-YxD3fGKksIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12633939540-rcfr95cciouc3fsvlf95ijptppc736um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
